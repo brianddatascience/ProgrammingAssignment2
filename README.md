@@ -1,4 +1,4 @@
-### This is my submission for weeks3 programming assigment 
+### This is my submission for weeks3 programming assignment 
 
 It consists of one ".R" file, houseing the two required functions, 
 makeCacheMatrix, and cacheSolve.  I tested them with a simple 2 x 2 
