@@ -13,5 +13,5 @@ b<-cacheSolve(a)
 
 b<-cacheSolve(a)  
 
-The first call to cacheSolve generates the appropriate matrix, the second call produces the appropriate matrix again by pulling it from cache, and notifying you with a print message that it jas just done that.
+The first call to cacheSolve generates the appropriate matrix, the second call produces the appropriate matrix again by pulling it from cache, and notifying you with a print message that it has just done that.
 
